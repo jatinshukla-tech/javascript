@@ -1,2 +1,2 @@
 # javascript
-code of javascript
+HELLO GUYS YOUR WELCOME THIS IS MY JOURNEY OF JAVASCRIPT.
